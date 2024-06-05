@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jennifer
 - 👀 I’m interested in anime and deepning my knowledge of technology
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, Java, and C
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: www.jxnnivo@gmail.com
 
